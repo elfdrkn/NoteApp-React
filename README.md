@@ -11,11 +11,13 @@ Check out the live version of the Notes App [here](https://melodious-faun-eda134
 
 *Features* 🌟
 
-Create Notes: Users can write notes in a text area and save them.
-Color Selection: When adding a new note, users can select a color, which will be reflected in the note's background.
-Color Preview: The selected color is displayed in real-time before saving the note.
-Search Functionality: Users can filter previously saved notes using a search input.
-Technologies Used
+1. Create Notes: Users can write notes in a text area and save them.
+2. Color Selection: When adding a new note, users can select a color, which will be reflected in the note's background.
+3. Color Preview: The selected color is displayed in real-time before saving the note.
+4. Search Functionality: Users can filter previously saved notes using a search input.
+
+*Technologies Used* 💻
+
 React: A JavaScript library for building user interfaces.
 CSS: For styling the application.
 
