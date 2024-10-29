@@ -18,7 +18,7 @@ CSS: For styling the application.
 *How to Run the Project*
 
 1. Clone the repository:
-    git clone https://github.com/yourusername/notes-app.git
+    git clone https://github.com/elfdrkn/NoteApp-React
    Navigate to the project directory:
     cd notes-app
 2. Install dependencies:
